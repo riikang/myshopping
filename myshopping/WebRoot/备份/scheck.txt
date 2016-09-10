@@ -1,0 +1,71 @@
+<style type="text/css">
+	a:link {
+ 			text-decoration: none;
+		}
+		a:visited {
+ 			text-decoration: none;
+		}
+		a:hover {
+ 			text-decoration: none;
+		}
+		a:active {
+ 			text-decoration: none;
+		}		
+		body{
+			margin:0;
+			background-color:#BFEFFF;
+		}
+	.header_top{
+			background: #FFFFFF;
+			padding: 2px auto;
+			margin: 0 ;
+			height:40px;
+			border-bottom: 1px solid #EFEFEF;	
+		}
+	.container{
+  			padding-right: 15px;
+  			padding-left: 15px;
+  			margin-right: auto;
+  			margin-left: auto;
+		}
+		.title1{
+			font-size:20px;
+			float:left;
+			margin-top:8px;			
+		}
+		.title2{
+			font-size:20px;
+			margin-top:8px;
+			float:left;
+			position:relative;
+			left:530px;
+		}
+		.title3{
+			font-size:20px;
+			margin-top:8px;
+			float:right;
+		}
+		.wrap-box {
+  			background: url(top1.jpg);
+  			padding:2px;
+		}
+		.submit{
+			float:right;
+			position:fixed;
+			right:20px;
+			bottom:0px;
+		}
+		.td1{			
+			color:#FF0000;
+			font-weight:bold;
+		}
+		
+		
+		
+		.t1{
+			float:left;
+			position:relative;
+			left:430px
+		}		
+		
+	</style>

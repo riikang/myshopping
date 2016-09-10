@@ -1,0 +1,40 @@
+<div class="sp">
+  	 	<table cellspacing="20">
+  	 	<tr>
+  	 	<td colspan="4"><img src='sp1.png'></td>
+  	 	<td colspan="4"><img src='sp2.png'></td>
+  	 	<td colspan="4"><img src='sp1.png'></td>
+  	 	<td colspan="4"><img src='sp2.png'></td>
+  	 	</tr >
+  	 	<tr>
+  	 	<td colspan="4">°¢µÏÍõÅÜÐ¬</td>
+  	 	<td colspan="4">°¢µÏÍõÃ«½í</td>
+  	 	<td colspan="4">°¢µÏÍõÅÜÐ¬</td>
+  	 	<td colspan="4">°¢µÏÍõÃ«½í</td>
+  	 	</tr>
+  	 	<tr>
+  	 	<td colspan="4" class="td1">£¤999</td>
+  	 	<td colspan="4" class="td1">£¤998</td>
+  	 	<td colspan="4" class="td1">£¤999</td>
+  	 	<td colspan="4" class="td1">£¤998</td>
+  	 	</tr>	 	
+  	 	<tr>
+  	 	<td>ÊýÁ¿</td>
+  	 	<td><input type='text' name="11" size=3 style="text-align:right;" maxlength='3'></td>
+  	 	<td>¶©¹º</td>
+  	 	<td><input type='checkbox' name="checkbox" value=" "></td>
+  	 	<td>ÊýÁ¿</td>
+  	 	<td><input type='text' name="11" size=3 style="text-align:right;" maxlength='3'></td>
+  	 	<td>¶©¹º</td>
+  	 	<td><input type='checkbox' name="checkbox" value=" "></td>
+  	 	<td>ÊýÁ¿</td>
+  	 	<td><input type='text' name="11" size=3 style="text-align:right;" maxlength='3'></td>
+  	 	<td>¶©¹º</td>
+  	 	<td><input type='checkbox' name="checkbox" value=" "></td>
+  	 	<td>ÊýÁ¿</td>
+  	 	<td><input type='text' name="11" size=3 style="text-align:right;" maxlength='3'></td>
+  	 	<td>¶©¹º</td>
+  	 	<td><input type='checkbox' name="checkbox" value=" "></td>
+  	 	</tr>
+  	 	</table>
+  	 </div>
